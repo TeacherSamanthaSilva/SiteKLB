@@ -8,5 +8,20 @@
 body{
 
     color: #090809 ;
-    background-color: #F8EFF6  ;
+    background: url(images/img1.jpeg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+}
+
+.fundotopo{
+    
+    display: none;
+
+}
+
+.fundotopo img{
+
+    max-width: 100%;
+    height: auto;
 }
