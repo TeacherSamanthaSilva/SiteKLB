@@ -10,6 +10,7 @@ body{
 
     color: #090809 ;
     background: url(images/img1-removebg.png);
+    background-color: #EEE3F9 ;
     background-repeat: no-repeat;
     background-position: top center;
     
@@ -37,4 +38,22 @@ body{
 header{
 
     max-width: 580px;
+}
+
+header h2{
+
+    color: #9F48F5;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+header h3{
+
+    color:#0B0A0D ;
+    font-size: 28px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+
 }
