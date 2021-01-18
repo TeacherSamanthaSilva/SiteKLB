@@ -9,8 +9,9 @@
 body{
 
     color: #090809 ;
-    background: url(images/img1-removebg.png);
-    background-color:#DBD1F0  ;
+    background: url(images/klb.jpg);
+    margin-top: 30px;
+    background-color:#DFEFF7   ;
     background-repeat: no-repeat;
     background-position: top center;
     
@@ -84,7 +85,7 @@ header h3{
 
 .capa{
 
-    margin-top: 700px;
+    margin-top: 600px;
     margin-left: 120px;
     
 }
