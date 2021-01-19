@@ -43,7 +43,7 @@ header{
 
 header h2{
 
-    color: #9F48F5;
+    color: #A06FF1 ;
     font-size: 40px;
     text-transform: uppercase;
     font-weight: 500;
@@ -115,4 +115,16 @@ header h3{
 
     display: block;
     height: 42px;
+}
+
+section{
+
+    background-color: #A06FF1 ;
+    padding: 40px 0 60px;
+    color: #090809;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+
 }
